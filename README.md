@@ -21,6 +21,9 @@ windows上的linux命令
     
     gor 可以把流量复制一份，然后引到另外一台机器上测试，不影响原有环境     https://github.com/buger/gor
     
+密码破解
+    
+    hashcat 速度很快的密码破解工具，有CPU和GPU两个版本的       https://github.com/hashcat
     
 
 
