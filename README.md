@@ -25,8 +25,13 @@ windows上的linux命令
     
     hashcat 速度很快的密码破解工具，有CPU和GPU两个版本的       https://github.com/hashcat
     
+命令行录制
 
-
+    asciinema   最爱用了，如果能加速播放就完美了        https://asciinema.org
+    showterm    这个也不错，网站有点深沉               http://showterm.io
+   
+    
+    
 ### 好玩的网站
 
     因果树      http://www.innotree.cn      关于股权期权的投资融资平台，可以看一些公司的融资情况
