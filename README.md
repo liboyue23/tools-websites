@@ -30,7 +30,12 @@ windows上的linux命令
     asciinema   最爱用了，如果能加速播放就完美了        https://asciinema.org
     showterm    这个也不错，网站有点深沉               http://showterm.io
    
+性能测试工具
     
+    jemeter     不解释，功能强大        http://jmeter.apache.org/
+    ab          不解释，但是不喜欢用      http://httpd.apache.org/
+    Siege       和楼上差不多           https://www.joedog.org/
+    boom        go版本的               https://github.com/rakyll/boom
     
 ### 好玩的网站
 
