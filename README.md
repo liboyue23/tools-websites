@@ -14,8 +14,12 @@ windows上的linux命令
     
 前端调试工具
 
-    BrowserSync 自动刷新的工具，最爱用了，chrome也有个类似的插件reload，现在用不了了    http://www.browsersync.cn
-    还有一些别的都是debug工具了，比如spy-debugger
+    自动刷新工具
+    BrowserSync     自动刷新的工具，最爱用了，                   http://www.browsersync.cn
+    reload          也是不错的，插件已经不能配合chrome使用了       http://livereload.com/
+    
+    debug工具，这个就比较多了
+    spy-debugger    https://github.com/wuchangming/spy-debugger
 
 
 流量复制工具
@@ -57,4 +61,6 @@ windows上的linux命令
 
     优矿        https://uqer.io/home/      量化实验室
     Ricequant  https://www.ricequant.com/   量化实验室
+    
+    zoomeye    http://www.zoomeye.org/      钟馗之眼，牛掰，霸气，好玩加好用
 
