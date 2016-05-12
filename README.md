@@ -53,6 +53,14 @@ windows上的linux命令
     flatlab     够用                 http://thevectorlab.net/flatlab
     
     
+Linux工具
+
+    tmux	     分割窗口：用于同时观察系统多个参数指标，参考：http://blog.csdn.net/jianbinhe1012/article/details/7741727
+    ifstat	     详细，能看到端口流量，但不够直观
+    nload	     简单实用，能看进出口总的流量
+    nscd 	     DSN缓存，生产环境能省不少流量，参考：http://jerry.hk/notes/deploy-centos-nscd   
+    
+    
 ### 好玩的网站
 
     因果树      http://www.innotree.cn      关于股权期权的投资融资平台，可以看一些公司的融资情况
@@ -63,4 +71,6 @@ windows上的linux命令
     Ricequant  https://www.ricequant.com/   量化实验室
     
     zoomeye    http://www.zoomeye.org/      钟馗之眼，牛掰，霸气，好玩加好用
+
+    
 
