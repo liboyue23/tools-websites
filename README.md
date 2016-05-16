@@ -52,7 +52,11 @@ windows上的linux命令
     ace         扁平化，组件有点少     http://wrapbootstrap.com
     flatlab     够用                 http://thevectorlab.net/flatlab
     
+web自动化工具
     
+    selenium    web自动化，爬虫都好用    http://www.seleniumhq.org/
+    pamie       这个没用过              http://pamie.sourceforge.net/
+    watir       也没用过                https://watir.com/    
 Linux工具
 
     tmux	     分割窗口：用于同时观察系统多个参数指标，参考：http://blog.csdn.net/jianbinhe1012/article/details/7741727
