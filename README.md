@@ -67,6 +67,15 @@ Linux工具
     nload	     简单实用，能看进出口总的流量
     nscd 	     DSN缓存，生产环境能省不少流量，参考：http://jerry.hk/notes/deploy-centos-nscd   
     
+debug工具
+    
+    x64dbg      windows上的debu工具，看样子很厉害      http://x64dbg.com/,https://github.com/x64dbg/x64dbg
+    
+Awesome系列
+    
+    github上英文版的，https://github.com/sindresorhus/awesome
+    也来点中文的吧，但是不怎么全     https://github.com/jobbole
+   
     
 ### 好玩的网站
 
