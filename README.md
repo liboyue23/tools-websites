@@ -91,6 +91,8 @@ Awesome系列
     FACE++      http://www.faceplusplus.com.cn  人脸识别
     
     coding      https://coding.net/         在线编码＋代码托管
+    
+    indeed      http://cn.indeed.com        招聘信息的搜索引擎
 
     
 
