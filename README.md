@@ -93,6 +93,8 @@ Awesome系列
     coding      https://coding.net/         在线编码＋代码托管
     
     indeed      http://cn.indeed.com        招聘信息的搜索引擎
+    
+    gurudigger  https://gurudigger.com/teams   会有一些创业项目和小团队，会有些好的项目点子
 
     
 
