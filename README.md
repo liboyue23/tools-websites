@@ -79,6 +79,8 @@ Awesome系列
     
 ### 好玩的网站
 
+    介绍写新的网站工具，重量级   http://next.36kr.com/posts
+
     因果树      http://www.innotree.cn      关于股权期权的投资融资平台，可以看一些公司的融资情况
     
     利器社群    http://liqi.io/community    会介绍一些工作用的到的工具，好的工具能大大提高工作效率嘛
@@ -95,6 +97,7 @@ Awesome系列
     indeed      http://cn.indeed.com        招聘信息的搜索引擎
     
     gurudigger  https://gurudigger.com/teams   会有一些创业项目和小团队，会有些好的项目点子
-
+    
+    
     
 
