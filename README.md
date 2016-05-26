@@ -87,6 +87,14 @@ windows工具
     墨刀  https://modao.cc/
     
     
+网站图标
+    
+    http://www.iconfont.cn      蛮好用的，图标很全
+    https://www.iconfinder.com
+    http://fontawesome.dashgame.com
+    http://geticonjar.com/freebies
+    
+    
 ### 好玩的网站
 
     介绍写新的网站工具，重量级   http://next.36kr.com/posts
