@@ -103,6 +103,7 @@ Mac工具
 
     阿里邮件推送	  https://promotion.aliyun.com/ntms/act/dm201605.html
     sendcloud	      http://sendcloud.sohu.net
+    submail         http://submail.cn/
     
     
 ### 好玩的网站
