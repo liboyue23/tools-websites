@@ -143,6 +143,8 @@ Mac工具
     
     gurudigger  https://gurudigger.com/teams   会有一些创业项目和小团队，会有些好的项目点子
     
+    gitbook     https://www.gitbook.com/explore   好网站，上面的书籍教程质量都还可以  
+    
     
     
 
