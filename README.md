@@ -121,6 +121,9 @@ Mac工具
 
     open-falcon     小米的，还是比较好用，界面也还行    http://open-falcon.org
     
+lightweight linux
+    http://tinycorelinux.net/
+    全部介绍：http://www.techradar.com/news/software/operating-systems/10-of-the-most-popular-lightweight-linux-distros-1295034
     
 ### 好玩的网站
 
