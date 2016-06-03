@@ -22,6 +22,11 @@ windows上的linux命令
     spy-debugger    https://github.com/wuchangming/spy-debugger
 
 
+抓包工具
+    charles  比finder好用   http://www.charlesproxy.com/
+    fiddler                 http://www.telerik.com/fiddler
+    
+    
 流量复制工具
     
     gor 可以把流量复制一份，然后引到另外一台机器上测试，不影响原有环境     https://github.com/buger/gor
