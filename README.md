@@ -23,6 +23,7 @@ windows上的linux命令
 
 
 抓包工具
+
     charles  比finder好用   http://www.charlesproxy.com/
     fiddler                 http://www.telerik.com/fiddler
     
@@ -87,6 +88,7 @@ windows工具
     
     Clover   在win资源栏新增书签    http://cn.ejie.me
     
+    
 Mac工具
     
     TermHere 在当前目录打开终端
@@ -111,6 +113,7 @@ Mac工具
     sendcloud	      http://sendcloud.sohu.net
     submail         http://submail.cn/
     
+    
 短信服务商
 
     http://www.alidayu.com
@@ -127,9 +130,12 @@ Mac工具
 
     open-falcon     小米的，还是比较好用，界面也还行    http://open-falcon.org
     
+    
 lightweight linux
+
     http://tinycorelinux.net/
     全部介绍：http://www.techradar.com/news/software/operating-systems/10-of-the-most-popular-lightweight-linux-distros-1295034
+    
     
 ### 好玩的网站
 
