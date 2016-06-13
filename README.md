@@ -94,6 +94,8 @@ Mac工具
     TermHere 在当前目录打开终端
     ftp工具		http://www.yummysoftware.com
     提高效率		unclutterapp
+    订阅          reeder3或unread
+       
         
 原型设计
     
