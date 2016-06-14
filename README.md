@@ -95,8 +95,8 @@ Mac工具
     ftp工具		http://www.yummysoftware.com
     提高效率		unclutterapp
     订阅          reeder3或unread
+    bitbar	       自定义状态栏	https://getbitbar.com
        
-        
         
 原型设计
     
