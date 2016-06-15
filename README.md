@@ -96,7 +96,7 @@ Mac工具
     提高效率		unclutterapp
     订阅          reeder3或unread
     bitbar	       自定义状态栏	https://getbitbar.com
-       
+    通知栏脚本	    today scripts   
         
 原型设计
     
