@@ -153,11 +153,12 @@ dockerhub
     https://dev.aliyun.com/search.html
 
 
-把html，css，js打包成app
+把html，css，js打包成app，技术很新
 
     http://cordova.apache.org/
     http://phonegap.com/
     https://trigger.io/
+    http://www.apicloud.com/
 
 
 mobile UI开发框架
