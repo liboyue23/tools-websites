@@ -169,39 +169,41 @@ mobile UI开发框架
 
 ### 好玩的网站
 
-    介绍写新的网站工具，重量级   http://next.36kr.com/posts
+    http://next.36kr.com/posts          介绍写新的网站工具，重量级   
 
-    因果树      http://www.innotree.cn      关于股权期权的投资融资平台，可以看一些公司的融资情况
+    http://www.innotree.cn              因果树，关于股权期权的投资融资平台，可以看一些公司的融资情况
     
-    利器社群    http://liqi.io/community    会介绍一些工作用的到的工具，好的工具能大大提高工作效率嘛
+    ttp://liqi.io/community             利器社群，会介绍一些工作用的到的工具，好的工具能大大提高工作效率嘛
 
-    优矿        https://uqer.io/home/      量化实验室
-    Ricequant  https://www.ricequant.com/   量化实验室
+    https://uqer.io/home/               优矿，量化实验室
+    https://www.ricequant.com/          Ricequant，量化实验室
     
-    zoomeye    http://www.zoomeye.org/      钟馗之眼，牛掰，霸气，好玩加好用
+    http://www.zoomeye.org/             zoomeye，钟馗之眼
     
-    FACE++      http://www.faceplusplus.com.cn  人脸识别
+    http://www.faceplusplus.com.cn      FACE++，人脸识别
     
-    coding      https://coding.net/         在线编码＋代码托管
+    https://coding.net/                 coding，在线编码＋代码托管
     
-    indeed      http://cn.indeed.com        招聘信息的搜索引擎
+    http://cn.indeed.com                indeed，招聘信息的搜索引擎
     
-    gurudigger  https://gurudigger.com/teams   会有一些创业项目和小团队，会有些好的项目点子
+    https://gurudigger.com/teams        gurudigger，会有一些创业项目和小团队，会有些好的项目点子
     
-    gitbook     https://www.gitbook.com/explore   好网站，上面的书籍教程质量都还可以  
+    https://www.gitbook.com/explore     gitbook，好网站，上面的书籍教程质量都还可以  
 
-    在线ppt      http://yanshuo.io
+    http://yanshuo.io                   在线ppt
     
-    https://www.takipi.com/     Detect and fix production errors，还是蛮实用的
+    https://www.takipi.com/             Detect and fix production errors，还是蛮实用的
 
     https://ghostbot.burnerapp.com      一次性号码，可惜免费版有一个号码
 
-    http://jijiangshe.com/          技匠社，都是精选的资源
+    http://jijiangshe.com/              技匠社，都是精选的资源
     
-    http://www.itaojin.cn/          共享经济下的客服，理念不错
+    http://www.itaojin.cn/              共享经济下的客服，理念不错
 
     企业信息查询
     http://www.qichacha.com/
     http://www.tianyancha.com/
+    
+    https://www.decosoftware.com/       The best IDE for building React Native  
 
 
