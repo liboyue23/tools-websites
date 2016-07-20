@@ -208,4 +208,5 @@ mobile UI开发框架
 
     https://www.kickstarter.com/projects/wnc/whisper-the-noise-canceler    降低室内噪音，这产品太厉害了
 
+    http://pravatar.cc/                 找个头像有那么难吗
 
