@@ -212,6 +212,6 @@ mobile UI开发框架
     
     http://www.51index.cn/              程序员导航网站
 
-    https://www.kickstarter.com/        国外的众筹网站，能发现很多新鲜东西
+    https://www.kickstarter.com/        全球最大的产品众筹平台，能发现很多新鲜东西
 
 
