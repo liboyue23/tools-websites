@@ -215,5 +215,9 @@ mobile UI开发框架
     https://www.kickstarter.com/        全球最大的产品众筹平台，能发现很多新鲜东西
     
     https://smallpdf.com/cn/pdf-to-excel在线pdf转换
+    
+    http://www.sysdig.org/              超级Linux管理员工具
+    
+    https://www.shodan.io/              这个就不解释了，和zoomeye类似
 
 
