@@ -229,4 +229,14 @@ mobile UI开发框架
     http://www.datasl.com/              数据交易市场，免费的数据很少，但是可以跳转到别的数据售卖网站
     
     https://uimovement.com/             UI素材，动态的演示
+    
+    http://mdbootstrap.com/templates/   让 Bootstrap 用上 Material Design 的框架
+    
+    https://www.libhunt.com/            查看各种类库
+    
+    两个导航网站
+    http://hao.199it.com/               大数据导航
+    http://www.juanzhuai.com/chuangye/index.php 创业导航
+
+
 
